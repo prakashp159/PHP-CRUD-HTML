@@ -1,8 +1,5 @@
 <?php include_once ('layout/header.php') ?>
 
-    <!-- Begin Page Content -->
-    <div class="container-fluid">
-
          <!-- Page Heading -->
 <h1 class="h3 mb-4 text-gray-800">Users
     <a class="btn btn-primary float-right" href="<?php echo get_site_url('add_edit_user.php')?>">Add New</a>
